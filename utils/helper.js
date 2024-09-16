@@ -83,8 +83,8 @@ const sendEmail = async (toEmail, subject, html) => {
             port: 465,
             secure: true, // Use `true` for port 465, `false` for all other ports
             auth: {
-                user: "therahul0722@gmail.com",
-                pass: "ccdm xlhb luel revz",
+                user: "",
+                pass: "",
             },
         }
 
